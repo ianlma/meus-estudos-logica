@@ -1,5 +1,5 @@
 # meus-estudos-logica
-Repositório destinado a exercícios de lógica de programação em C++.
+Repositório destinado a exercícios de lógica de programação em C++ e JAVA.
 🧠 Meus Estudos de Lógica e Algoritmos
 
 Este repositório contém exercícios e implementações que desenvolvi para fortalecer minha base em lógica de programação, utilizando **C++** e **Java**.
