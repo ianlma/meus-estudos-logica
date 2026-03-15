@@ -13,7 +13,7 @@ public class ContaBancaria {
         this.numeroConta = numeroConta;
         this.agencia = agencia;
         this.dataAbertura = LocalDate.now();
-        this.saldo = Math.max(saldoInicial, 0); // garante que não seja negativo
+        this.saldo = Math.max(saldoInicial, 0); 
         this.limiteChequeEspecial = limiteChequeEspecial;
     }
 
